@@ -8,5 +8,5 @@ if num2 == 0:
 else:
     # Performing the division
     result = num1 / num2
-    # Displaying the result
+    # Display the result
     print("The result of dividing", num1, "by", num2, "is:", result)
