@@ -4,7 +4,7 @@ num2 = float(input("Enter the second number (divisor): "))
 
 # Checking if the second number is zero
 if num2 == 0:
-    print("Error: Division by zero is not allowed.")
+    print("Division by zero is not allowed.")
 else:
     # Performing the division
     result = num1 / num2
