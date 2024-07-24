@@ -9,4 +9,4 @@ num2 = int (input("Enter the second value"))
 
 sum_total = add_numbers(num1,num2)
 #Display the result
-print (sum_total)
+print("The sum of ",num1," " ,num2, " is ",sum_total)
