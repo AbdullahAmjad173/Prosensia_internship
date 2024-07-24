@@ -1,4 +1,4 @@
-#DEfining the function for sum
+#DEfining the function for product
 def opr_numbers (num1, num2):
     Product = num1 * num2 
     return Product
