@@ -1,3 +1,4 @@
+#Call function
 def print_greeting():
     print("Hello, World!")
 
