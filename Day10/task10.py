@@ -1,3 +1,4 @@
+#re module is used to handle sequences of whitespace characters more effectively
 import re
 
 def clean_string(input_string):
