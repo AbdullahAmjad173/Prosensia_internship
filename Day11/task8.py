@@ -8,5 +8,5 @@ def divide_two_numbers():
     except ValueError:
         return "Invalid input. Please enter numeric values."
 
-# EDisplay the result:
+# Display the result:
 print(divide_two_numbers())
