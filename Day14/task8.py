@@ -14,7 +14,7 @@ def flatten_list(nested_list):
     flatten_helper(nested_list, 1)
     return flat_list, max_depth
 
-# Passing values
+# Passing values.
 nested_list = [1, [2, [3, 4], 5], 6]
 flat_list, depth = flatten_list(nested_list)
 print(f"Flattened list: {flat_list}")
