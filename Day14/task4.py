@@ -21,7 +21,7 @@ def matrix_addition(matrix1, matrix2):
     
     return result
 
-# calling function
+# calling function.
 matrix1 = [[1, 2, 3], [4, 5, 6]]
 matrix2 = [[7, 8, 9], [10, 11, 12]]
 try:
