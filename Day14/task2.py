@@ -9,7 +9,7 @@ def binary_conversion(binary_str, fixed_length):
     
     return binary_str_back
 
-#passing values to function
+#passing values to functions
 binary_str = "101"
 fixed_length = 8
 result = binary_conversion(binary_str, fixed_length)
