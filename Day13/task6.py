@@ -3,7 +3,7 @@ def interpolate_string(template, values):
         template = template.replace(f"{{{{{key}}}}}", str(value))
     return template
 
-# Example usage
+# passing values
 template = "My name is {name} and I am {age} years old."
 values = {"name": "Alice", "age": 30}
 formatted_string = interpolate_string(template, values)
