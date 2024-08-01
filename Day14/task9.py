@@ -10,7 +10,7 @@ def match_pattern(s, pattern):
     
     return True
 
-# Passing Values
+# Passing Values.
 s = "a1b2"
 pattern = "a1b2"
 result = match_pattern(s, pattern)
