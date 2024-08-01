@@ -26,7 +26,7 @@ def anagram_check(str1, str2):
         'frequency_str2': char_frequency(cleaned_str2)
     }
 
-# Passing values
+# Passing values.
 str1 = "Listen!"
 str2 = "Silent!!"
 result, frequencies = anagram_check(str1, str2)
