@@ -27,7 +27,7 @@ def normalize_and_analyze(data):
     # Normalize the data to the range 0 to 1
     normalized_data = [(x - min_val) / (max_val - min_val) for x in data]
     
-    # Calculate statistical measures
+    # Calculate statistical measures.
     mean = calculate_mean(normalized_data)
     median = calculate_median(normalized_data)
     variance = calculate_variance(normalized_data, mean)
