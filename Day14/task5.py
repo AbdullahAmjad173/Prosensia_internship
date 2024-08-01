@@ -17,7 +17,7 @@ def prime_factors(n):
     
     return factors, cumulative_product
 
-# passing values
+# passing values.
 number = 56
 factors, product = prime_factors(number)
 print(f"Prime factors: {factors}")
