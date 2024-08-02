@@ -9,7 +9,7 @@ def evaluate_polynomial(coeffs, x):
     
     return result
 
-# Passing values to the function
+# Passing values to the function.
 
 print(evaluate_polynomial([1, 0, -4], 2))  # 1x^2 + 0x - 4 at x = 2
 print(evaluate_polynomial([2, -3, 5], 1))  # 2x^2 - 3x + 5 at x = 1
