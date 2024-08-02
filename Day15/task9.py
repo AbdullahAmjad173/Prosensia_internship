@@ -6,7 +6,7 @@ def evaluate_expression(expression, variables):
     except Exception as e:
         return f"Error: {e}"
 
-# passing values to the function
+# passing values to the function.
 variables = {'x': 10, 'y': 5}
 print(evaluate_expression("x + y", variables))
 print(evaluate_expression("x + z", variables))
