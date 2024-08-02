@@ -14,6 +14,6 @@ def validate_data(entries):
     
     return report
 
-# passing values to the function
+# passing values to the function.
 entries = ["hello", "12345", "hello123", "test@example.com", "2024-08-01"]
 print(validate_data(entries))
