@@ -13,6 +13,6 @@ def prime_generator(limit):
     for prime in primes:
         yield prime
 
-# Epassing values to the function
+# Epassing values to the function.
 for prime in prime_generator(30):
     print(prime)
