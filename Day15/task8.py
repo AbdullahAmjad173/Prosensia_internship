@@ -18,5 +18,5 @@ def num2words(num):
     }
     return ' '.join(num_map[digit] for digit in str(num))
 
-# passing values to the function
+# passing values to the function.
 print(transform_string("This is an example string with digits 123 and longword."))
