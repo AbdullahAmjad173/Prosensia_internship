@@ -14,6 +14,6 @@ def iterative_fibonacci(n):
         a, b = b, a + b
     return a
 
-# passing values to the function
+# passing values to the function.
 print(memoized_fibonacci(10))
 print(iterative_fibonacci(10))
