@@ -1,4 +1,4 @@
-# Count the number of lines in data.txt
+# Count the number of lines in data.txt ....
 with open('data.txt', 'r') as file:
     lines = file.readlines()
     line_count = len(lines)
