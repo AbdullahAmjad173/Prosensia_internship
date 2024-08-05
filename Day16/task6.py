@@ -1,4 +1,4 @@
-# Find and print all lines that contain the word "error" in log.txt
+# Find and print all lines that contain the word "error" in log.txt  ..............
 try:
     with open('log.txt', 'r') as file:
         lines = file.readlines()
