@@ -5,5 +5,5 @@ print("Before update:", my_dict)
 # Update the value of a specific key
 my_dict['key2'] = 'updated_value'
 
-# Print the dictionary after the update
+# Print the dictionary after the update.
 print("After update:", my_dict)
