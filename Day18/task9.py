@@ -1,4 +1,4 @@
-# Attempt to access a non-existent key and handle KeyError
+# Attempt to access a non-existent key and handle KeyError.
 my_dict = {'key1': 'value1', 'key2': 'value2'}
 key = 'key3'
 
