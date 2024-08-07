@@ -3,7 +3,7 @@ def merge_dictionaries(dict1, dict2):
     result.update(dict2)
     return result
 
-# Example usage
+# printing the values
 dict1 = {'a': 1, 'b': 2, 'c': 3}
 dict2 = {'b': 20, 'd': 4}
 merged_dict = merge_dictionaries(dict1, dict2)
