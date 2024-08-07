@@ -1,4 +1,4 @@
-# Create a nested dictionary for multiple students
+# Create a nested dictionary for multiple students.
 students = {
     'student1': {
         'name': 'Alice',
