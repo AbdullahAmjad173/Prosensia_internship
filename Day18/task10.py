@@ -10,5 +10,5 @@ def most_common_word(filename):
     print("The most common word is '{}' with {} occurrences.".format(most_common, word_counts[most_common]))
 
 # Example usage
-filename = 'example.txt'  # Make sure to replace this with the path to your text file
+filename = 'example.txt'  # Make sure to replace this with the path to your text file.
 most_common_word(filename)
