@@ -10,5 +10,5 @@ for word in words:
     else:
         word_counts[word] = 1
 
-# Print the dictionary of word counts
+# Print the dictionary of word counts.
 print("Word counts:", word_counts)
